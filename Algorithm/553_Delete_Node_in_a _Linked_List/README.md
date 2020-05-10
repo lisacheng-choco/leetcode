@@ -19,3 +19,5 @@ Linked List: O(1), Array: O(n)
 - [A Simple Introduction to Linked Lists for Data Scientists](https://towardsdatascience.com/a-simple-introduction-of-linked-lists-for-data-scientists-a71f0eb31d87)
 - [用python實作linked-list](https://medium.com/@tobby168/%E7%94%A8python%E5%AF%A6%E4%BD%9Clinked-list-524441133d4d)
 
+
+###### tags: `LeetCode` `learning`
