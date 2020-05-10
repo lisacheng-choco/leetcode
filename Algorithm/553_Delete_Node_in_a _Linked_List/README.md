@@ -3,7 +3,7 @@
 https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 
-## My Solution
+## My Solution [Link](https://github.com/lisacheng-choco/leetcode/blob/master/Algorithm/553_Delete_Node_in_a%20_Linked_List/main.py)
 input param: node (not the tail)
 1. assign the value of the node to the value of the next node.
 2. assign the pointer of the node to the pointer of the next node.
