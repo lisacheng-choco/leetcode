@@ -1,1 +1,3 @@
-# Leetcode for Python
+# LeetCode for Python
+
+###### tags: leetcode, learning
