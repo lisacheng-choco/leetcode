@@ -1,1 +1,1 @@
-# template
+# 727_Remove Duplicates from Sorted Array
