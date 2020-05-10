@@ -4,11 +4,10 @@
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 ## My Solution [Link](https://github.com/lisacheng-choco/leetcode/blob/master/Algorithm/727_Remove_Duplicates_from_Sorted_Array/main.py)
-:::info
-Prerequisite
-1. Space Complexity: O(1)
-2. Remove the duplicates in-place
-:::
+
+> Prerequisite
+>1. Space Complexity: O(1)
+>2. Remove the duplicates in-place
 
 1. initialize two pointers: i=0 -> slower runner; j=1 -> fast runner
 2. loop the list
