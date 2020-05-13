@@ -20,5 +20,7 @@ the total profit = the sum of local peaks - the sum of local valleys.
     > profit = profit +  ((i+1) element - i element)
 
 ## Notes
+Python range()
+> range（0， 5 -> [0, 1, 2, 3, 4] 
 
 ###### tags: `LeetCode` `learning`# template
