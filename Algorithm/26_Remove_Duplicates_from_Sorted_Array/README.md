@@ -1,4 +1,4 @@
-# 727_Remove Duplicates from Sorted Array
+# 26_Remove Duplicates from Sorted Array
 
 ## Link
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/

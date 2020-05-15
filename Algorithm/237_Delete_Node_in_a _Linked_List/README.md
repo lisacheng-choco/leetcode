@@ -1,4 +1,4 @@
-# 553_Delete Node in a Linked List 
+# 237_Delete Node in a Linked List 
 ## Link
 https://leetcode.com/problems/delete-node-in-a-linked-list/
 

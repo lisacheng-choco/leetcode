@@ -1,4 +1,4 @@
-# 560_Reverse Linked List
+# 206_Reverse Linked List
 
 ## Link
 https://leetcode.com/problems/reverse-linked-list/
