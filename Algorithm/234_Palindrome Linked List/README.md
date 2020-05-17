@@ -23,8 +23,9 @@ Find the middle of Linked List and we can get Head Linked List & Tail Linked Lis
 2. To find the middle of Linked List, *slower* takes one step and *faster* takes two steps in the loop. Stop the loop when *faster* or *faster.next* is None. 
 	> slower = slower.next
 	> faster = faster.next.next
-
+	
 In the end, *slower* can be take as the head of Tail Linked List.
+
 
 3. Reverse Tail Linked List.
 4. Check if node value of Head Linked List and reversed Tail Linked List are the same.
