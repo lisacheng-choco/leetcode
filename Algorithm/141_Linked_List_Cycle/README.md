@@ -6,6 +6,7 @@ https://leetcode.com/problems/linked-list-cycle/
 ## My Solution
 ### Solution 1
 Iterate linked list and mark the current Node as string 'visited'.
+
 If Node.next.val == 'visited', then we find the cycle.
 **Time Complexity:** O(N)
 
@@ -18,6 +19,7 @@ If Node.next.val == 'visited', then we find the cycle.
 
 ## Notes
 Solution 2 - 判斷是否有cycle，想到倒追！
+
 當快＆慢指標相差一個步伐時，快指標遲早會到追上慢指標。
 
 ###### tags: `LeetCode` `learning`
