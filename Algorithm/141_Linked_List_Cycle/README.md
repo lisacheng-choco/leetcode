@@ -5,9 +5,8 @@ https://leetcode.com/problems/linked-list-cycle/
 
 ## My Solution
 ### Solution 1
-Iterate linked list and mark the current Node as string 'visited'.
-
-If Node.next.val == 'visited', then we find the cycle.
+1. Iterate linked list and mark the current Node as string 'visited'.
+2. If Node.next.val == 'visited', then we find the cycle.
 
 **Time Complexity:** O(N)
 
