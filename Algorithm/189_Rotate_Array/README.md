@@ -18,7 +18,9 @@ Rotatation problem just like a cycle. the last element's next is back to the fir
 1. reverse [0, n-1]
 2. reverse [0, k-1]
 3. reverse [k, n-1]
+
 *Reminder: k could be a number which is larger than n. If k=n, it means the outcome of rotation is the same as the original list*
+
 ### Time Complexity: O(n), Space Complexity: O(1)
 
 ## Notes
