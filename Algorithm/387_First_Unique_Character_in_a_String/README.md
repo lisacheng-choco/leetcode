@@ -19,10 +19,5 @@ seq = ['one', 'two', 'three']
 for i, element in enumerate(seq):
 	print i, element
 ```
-> seq = ['one', 'two', 'three']
-
-> for i, element in enumerate(seq):
-
-> 	print i, element
 
 ###### tags: `LeetCode` `learning`# template
