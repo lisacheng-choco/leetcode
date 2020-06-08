@@ -14,6 +14,11 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 
 ## Notes
 solution 1's *dictionary* can be replaced by *enumerate*.
+```python
+seq = ['one', 'two', 'three']
+for i, element in enumerate(seq):
+	print i, element
+```
 > seq = ['one', 'two', 'three']
 
 > for i, element in enumerate(seq):
